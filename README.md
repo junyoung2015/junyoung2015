@@ -39,6 +39,15 @@ Here are some ideas to get you started:
 - Runtime behavior of JavaScript, Node.js, Docker, and kernel
 - Developer Experience (DX), workflow automation, and LLM-assisted workflows
 - Systems software, storage and kernel/user-space boundaries
+- Spec-Driven Development
+
+### 💼 Professional Experience
+- 現)나노크래프트
+- 대모산개발단
+- 일리코퍼레이션
+- 42 Seoul
+- Samsung SDS America
+- Mercury Systems, Inc.
 
 ### 📫 How to reach me
 - 📧 <a href="mailto:junyoung.eddie@gmail.com">junyoung.eddie@gmail.com</a>
